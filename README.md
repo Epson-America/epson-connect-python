@@ -1,5 +1,5 @@
 # Epson Connect
-[![CI/CD](https://github.com/arafatkatze/epson-api-python/actions/workflows/cicd.yml/badge.svg)](https://github.com/arafatkatze/epson-api-python/actions/workflows/cicd.yml) [![Documentation Status](https://readthedocs.org/projects/epson-connect-api/badge/?version=latest)](https://epson-connect-api.readthedocs.io/en/main/?badge=latest)
+[![CI/CD](https://github.com/Epson-America/epson-connect-python/actions/workflows/cicd.yml/badge.svg)](https://github.com/Epson-America/epson-connect-python/actions/workflows/cicd.yml) [![Documentation Status](https://readthedocs.org/projects/epson-connect-python/badge/?version=latest)](https://epson-connect-python.readthedocs.io/en/latest/?badge=latest)
 
 The Epson Connect Library offers a comprehensive interface to the Epson Connect API. With this library, users can seamlessly control Epson printers and scanners through the Epson cloud service.
 
